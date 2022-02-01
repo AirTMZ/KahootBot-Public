@@ -1,0 +1,36 @@
+TO-DO : ( * = long term)
+* leak codes
+* bots answer kahoot questions on own
+* allow user to play kahoot through the bot (you can have long usernames)
+Tell user if command does not exist
+
+owner related customisation
+prefix
+data
+dm
+
+PREMIUM:
+make limit 250 (done)
+allow change prefix 
+sentence mode 
+easy ascii power 
+add special modes only premium users can use
+add custom insults
+
+
+-------------------------
+
+Bot has no name length limit
+
+Check if NameAccept event works like we think: it should work in the normal command, idk how to check it tho
+Actually, turns out using botclient.on("Joined") returns whether or not the room is valid.]
+^this is wrong, its just the exception handling, sorry :/
+
+https://repl.it/@JamesGordon1/Kahoot-B
+
+
+basic 5 min
+bronze 5 min
+silver 4.5 min
+gold 4 min
+plat 2 min
